@@ -16,7 +16,7 @@ The application takes 6 arguments:
 - 	if the access mode to the O2G is public (internet) or not (local network)
 - 	if the debug mode is activated
 	
-For **example**: o2g-shared-sandbox.ale-aapp.com 443 adminuser1 adminuserpassword1 True True
+For **example**: myo2g-server.com 443 adminuser1 adminuserpassword1 False True
 	
 
 If the user is an **admin** user, the application will collect all the information of the users belonging to the same entity as the admin user.
