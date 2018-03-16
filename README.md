@@ -19,7 +19,7 @@ The application takes 6 arguments:
 For **example**: myo2g-server.com 443 adminuser1 adminuserpassword1 False True
 	
 
-If the user is an **admin** user, the application will collect all the information of the users belonging to the same entity as the admin user.
+If the user is an **admin** user, the application will collect all the information of the users belonging to the same cost center as the admin user.
 If the user is a "basic" user, only his information are collected.
 
 
